@@ -1,0 +1,5 @@
+> Ready on http://itmanagement:\\.\pipe\e58a658c-c2b7-4004-b6e3-e4cbd27f9559
+ ○ Compiling / ...
+ ✓ Compiled / in 1612ms (536 modules)
+ GET / 200 in 2068ms
+ ✓ Compiled in 447ms (262 modules)

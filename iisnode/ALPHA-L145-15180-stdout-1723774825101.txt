@@ -1,0 +1,8 @@
+> Ready on http://itmanagement:\\.\pipe\b2564b81-0330-4621-b7d4-90991d627b72
+ ○ Compiling / ...
+ ✓ Compiled / in 2.6s (536 modules)
+ GET / 200 in 3039ms
+ ✓ Compiled in 450ms (262 modules)
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 569ms (525 modules)
+ GET /iisnode 404 in 722ms

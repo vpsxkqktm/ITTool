@@ -1,0 +1,14 @@
+API route accessed
+Attempting to connect to database
+Database connection successful
+Executing query
+Detailed error: {"code":"EREQUEST","originalError":{"info":{"name":"ERROR","handlerName":"onErrorMessage","number":208,"state":1,"class":16,"message":"Invalid object name 'dbo.TB_IPScanner'.","serverName":"ALPHA-PSQ","procName":"","lineNumber":1}},"name":"RequestError","number":208,"lineNumber":1,"state":1,"class":16,"serverName":"ALPHA-PSQ","procName":"","precedingErrors":[]}
+Error message: Invalid object name 'dbo.TB_IPScanner'.
+Database connection closed
+API route accessed
+Attempting to connect to database
+Database connection successful
+Executing query
+Detailed error: {"code":"EREQUEST","originalError":{"info":{"name":"ERROR","handlerName":"onErrorMessage","number":208,"state":1,"class":16,"message":"Invalid object name 'dbo.TB_IPScanner'.","serverName":"ALPHA-PSQ","procName":"","lineNumber":1}},"name":"RequestError","number":208,"lineNumber":1,"state":1,"class":16,"serverName":"ALPHA-PSQ","procName":"","precedingErrors":[]}
+Error message: Invalid object name 'dbo.TB_IPScanner'.
+Database connection closed

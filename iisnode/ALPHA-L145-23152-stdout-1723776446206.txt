@@ -1,0 +1,7 @@
+> Ready on http://itmanagement:\\.\pipe\4ef044e4-f644-4407-a3a7-2f6b9392f831
+ ○ Compiling / ...
+ ✓ Compiled / in 1796ms (536 modules)
+ GET / 200 in 2230ms
+ ✓ Compiled in 407ms (262 modules)
+ ✓ Compiled /favicon.ico in 372ms (304 modules)
+ GET /favicon.ico 200 in 575ms

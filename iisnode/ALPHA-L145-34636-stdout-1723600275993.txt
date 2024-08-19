@@ -1,0 +1,5226 @@
+Database connection successful
+Database connection successful
+ GET /api/assigned 200 in 2355ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/site 200 in 2415ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/assigned 200 in 170ms
+Database connection successful
+ GET /api/site 200 in 186ms
+ ✓ Compiled /api/ipcheck in 375ms (928 modules)
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 734ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 270ms
+ ✓ Compiled /api/status in 279ms (942 modules)
+ GET /api/status?ipRange=192.168.2 200 in 5875ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ POST /api/ipcheck 500 in 192ms
+ GET /api/status?ipRange=192.168.2 200 in 5506ms
+ ✓ Compiled in 642ms (557 modules)
+ ✓ Compiled in 420ms (557 modules)
+ ✓ Compiled /api/status in 126ms (330 modules)
+ GET /ipcheck 200 in 111ms
+ ✓ Compiled /api/site in 240ms (357 modules)
+ GET /api/status?ipRange=192.168.2 200 in 5993ms
+ ✓ Compiled (940 modules)
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /favicon.ico 200 in 2165ms
+Database connection successful
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/assigned 200 in 2262ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/site 200 in 2312ms
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/assigned 200 in 128ms
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/site 200 in 159ms
+ ✓ Compiled /api/ipcheck in 390ms (942 modules)
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 756ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 2864ms
+ GET /api/status?ipRange=192.168.1 200 in 7307ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Received data: {
+  ip: '192.168.1.1',
+  sitename: undefined,
+  updatedData: { comment: '1132' }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ POST /api/ipcheck 500 in 203ms
+ GET /api/status?ipRange=192.168.1 200 in 7970ms
+ ✓ Compiled in 555ms (557 modules)
+ ✓ Compiled in 199ms (271 modules)
+ GET /ipcheck 200 in 105ms
+ ✓ Compiled /api/assigned in 114ms (316 modules)
+ ✓ Compiled (926 modules)
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /favicon.ico 200 in 647ms
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+ GET /api/assigned 200 in 740ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/site 200 in 790ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/assigned 200 in 146ms
+Database connection successful
+ GET /api/site 200 in 166ms
+ ✓ Compiled /api/ipcheck in 194ms (928 modules)
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 605ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 365ms
+ ✓ Compiled /api/status in 465ms (942 modules)
+ GET /api/status?ipRange=192.168.2 200 in 6349ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Received data: {
+  ip: '192.168.2.1',
+  sitename: undefined,
+  updatedData: { comment: '1132' }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ POST /api/ipcheck 500 in 249ms
+ GET /api/status?ipRange=192.168.2 200 in 5514ms
+ ✓ Compiled in 572ms (557 modules)
+ GET /ipcheck 200 in 112ms
+ ✓ Compiled /api/assigned in 112ms (316 modules)
+ ✓ Compiled (926 modules)
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /favicon.ico 200 in 705ms
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+ GET /api/assigned 200 in 817ms
+ GET /api/site 200 in 878ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/assigned 200 in 158ms
+Database connection successful
+ GET /api/site 200 in 173ms
+ ✓ Compiled /api/ipcheck in 286ms (928 modules)
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 648ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 204ms
+ ✓ Compiled /api/status in 280ms (942 modules)
+ GET /api/status?ipRange=192.168.2 200 in 6228ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Received data: {
+  ip: '192.168.2.1',
+  sitename: undefined,
+  macaddress: undefined,
+  device: undefined,
+  location: undefined,
+  comment: '1132',
+  modifieddate: undefined,
+  modifiedby: undefined
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ POST /api/ipcheck 500 in 318ms
+ GET /api/status?ipRange=192.168.2 200 in 5491ms
+ ✓ Compiled in 463ms (1213 modules)
+ GET /ipcheck 200 in 229ms
+ GET /favicon.ico 200 in 38ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+ GET /api/assigned 200 in 168ms
+ GET /api/site 200 in 212ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/assigned 200 in 166ms
+Database connection successful
+ GET /api/site 200 in 198ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 122ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 2833ms
+ GET /api/status?ipRange=192.168.2 200 in 5578ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Received data: {
+  ip: '192.168.2.1',
+  sitename: undefined,
+  macaddress: undefined,
+  device: undefined,
+  location: undefined,
+  comment: '1132',
+  modifieddate: undefined,
+  modifiedby: undefined
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ POST /api/ipcheck 200 in 239ms
+ GET /api/status?ipRange=192.168.2 200 in 5496ms
+ GET /api/status?ipRange=192.168.2 200 in 5495ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Received data: {
+  ip: '192.168.2.253',
+  sitename: undefined,
+  macaddress: undefined,
+  device: undefined,
+  location: undefined,
+  comment: '1155',
+  modifieddate: undefined,
+  modifiedby: undefined
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ POST /api/ipcheck 200 in 175ms
+ GET /api/status?ipRange=192.168.2 200 in 5726ms
+ GET /ipcheck 200 in 66ms
+ GET /favicon.ico 200 in 51ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/assigned 200 in 171ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/site 200 in 222ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/assigned 200 in 162ms
+Database connection successful
+ GET /api/site 200 in 192ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+ GET /api/assigned 200 in 153ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/site 200 in 249ms
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/assigned 200 in 180ms
+Database connection successful
+ GET /api/site 200 in 161ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+ GET /api/assigned 200 in 158ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/site 200 in 224ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/assigned 200 in 164ms
+Database connection successful
+ GET /api/site 200 in 173ms
+ ✓ Compiled in 1537ms (557 modules)
+ ✓ Compiled in 996ms (557 modules)
+ ✓ Compiled /api/ipcheck in 435ms (897 modules)
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 1309ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 332ms
+ ✓ Compiled /api/status in 512ms (911 modules)
+ GET /api/status?ipRange=192.168.2 200 in 6940ms
+ GET /api/status?ipRange=192.168.2 200 in 7008ms
+ ✓ Compiled /api/status in 773ms (557 modules)
+ ✓ Compiled in 1ms (330 modules)
+ ✓ Compiled in 433ms (601 modules)
+ GET /api/status?ipRange=192.168.2 200 in 6455ms
+ ✓ Compiled /favicon.ico in 444ms (357 modules)
+ GET /favicon.ico 200 in 641ms
+ GET /ipcheck 200 in 295ms
+ GET /api/status?ipRange=192.168.2 200 in 7011ms
+ GET /favicon.ico 200 in 39ms
+ ○ Compiling /api/assigned ...
+ ✓ Compiled /api/assigned in 2.3s (938 modules)
+ ✓ Compiled (940 modules)
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/assigned 200 in 3414ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/site 200 in 3478ms
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/assigned 200 in 172ms
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/site 200 in 443ms
+ ○ Compiling /api/ipcheck ...
+ ✓ Compiled /api/ipcheck in 680ms (942 modules)
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 1249ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 4074ms
+ GET /api/status?ipRange=192.168.2 200 in 6497ms
+ GET /api/status?ipRange=192.168.2 200 in 6987ms
+ ✓ Compiled in 1332ms (1182 modules)
+ GET /ipcheck 200 in 108ms
+ ✓ Compiled /api/assigned in 131ms (357 modules)
+ ✓ Compiled (940 modules)
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /favicon.ico 200 in 736ms
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+ GET /api/assigned 200 in 859ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/site 200 in 921ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/assigned 200 in 146ms
+Database connection successful
+ GET /api/site 200 in 169ms
+ GET /api/status?ipRange=192.168.2 200 in 8210ms
+ ✓ Compiled /api/ipcheck in 322ms (942 modules)
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 1042ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 4702ms
+ GET /api/status?ipRange=192.168.2 200 in 7413ms
+ GET /api/status?ipRange=192.168.2 200 in 7024ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Received data: {
+  ip: '192.168.2.2',
+  sitename: undefined,
+  macaddress: undefined,
+  device: undefined,
+  location: undefined,
+  comment: '1151',
+  modifieddate: undefined,
+  modifiedby: undefined
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ POST /api/ipcheck 200 in 341ms
+ GET /api/status?ipRange=192.168.2 200 in 8143ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Received data: {
+  ip: '192.168.2.1',
+  sitename: undefined,
+  macaddress: undefined,
+  device: '1311',
+  location: undefined,
+  comment: undefined,
+  modifieddate: undefined,
+  modifiedby: undefined
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ POST /api/ipcheck 200 in 340ms
+ GET /api/status?ipRange=192.168.2 200 in 8348ms
+ ✓ Compiled in 975ms (557 modules)
+ ✓ Compiled /api/status in 150ms (330 modules)
+ GET /ipcheck 200 in 241ms
+ ✓ Compiled /api/assigned in 183ms (357 modules)
+ ✓ Compiled (940 modules)
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /favicon.ico 200 in 739ms
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+ GET /api/assigned 200 in 874ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/site 200 in 929ms
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/assigned 200 in 154ms
+Database connection successful
+ GET /api/site 200 in 212ms
+ GET /api/status?ipRange=192.168.2 200 in 9170ms
+ ○ Compiling /api/ipcheck ...
+ ✓ Compiled /api/ipcheck in 850ms (942 modules)
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 1450ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 4662ms
+ GET /api/status?ipRange=192.168.2 200 in 6778ms
+ GET /api/status?ipRange=192.168.2 200 in 6979ms
+ GET /ipcheck 200 in 242ms
+ GET /favicon.ico 200 in 59ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+ GET /api/assigned 200 in 210ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/site 200 in 305ms
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/assigned 200 in 222ms
+Database connection successful
+ GET /api/site 200 in 227ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 215ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 4438ms
+ GET /api/status?ipRange=192.168.2 200 in 7127ms
+ GET /api/status?ipRange=192.168.2 200 in 7059ms
+ ✓ Compiled in 1700ms (1182 modules)
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /ipcheck 200 in 1725ms
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 1869ms
+ ✓ Compiled /api/assigned in 305ms (938 modules)
+ ✓ Compiled (942 modules)
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /favicon.ico 200 in 956ms
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+ GET /api/assigned 200 in 1033ms
+ GET /api/site 200 in 1137ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/assigned 200 in 261ms
+Database connection successful
+ GET /api/site 200 in 253ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 250ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 4692ms
+ GET /api/status?ipRange=192.168.2 200 in 7198ms
+ GET /api/status?ipRange=192.168.2 200 in 7033ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+ GET /api/assigned 200 in 309ms
+ GET /api/site 200 in 394ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/assigned 200 in 286ms
+Database connection successful
+ GET /api/site 200 in 312ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+ GET /api/assigned 200 in 263ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/site 200 in 369ms
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/assigned 200 in 281ms
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/site 200 in 318ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 209ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 4732ms
+ GET /api/status?ipRange=192.168.2 200 in 6478ms
+ GET /api/status?ipRange=192.168.2 200 in 7500ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Received data: {
+  ip: '192.168.2.1',
+  sitename: undefined,
+  macaddress: 'AA:AA:11:11:11:AA',
+  device: undefined,
+  location: undefined,
+  comment: undefined,
+  modifieddate: undefined,
+  modifiedby: undefined
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ POST /api/ipcheck 200 in 367ms
+ GET /api/status?ipRange=192.168.2 200 in 7550ms
+ ✓ Compiled in 1776ms (1182 modules)
+ GET /ipcheck 200 in 5760ms
+ ✓ Compiled /api/site in 241ms (938 modules)
+ ✓ Compiled (942 modules)
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /favicon.ico 200 in 845ms
+Database connection successful
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/assigned 200 in 985ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/site 200 in 1047ms
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/assigned 200 in 219ms
+Database connection successful
+ GET /api/site 200 in 232ms
+ GET /api/status?ipRange=192.168.2 200 in 7851ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 213ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 4181ms
+ GET /api/status?ipRange=192.168.1 200 in 8830ms
+ GET /api/status?ipRange=192.168.1 200 in 8971ms
+ ✓ Compiled in 1071ms (601 modules)
+ GET /ipcheck 200 in 271ms
+ ✓ Compiled /api/site in 149ms (357 modules)
+ ✓ Compiled (940 modules)
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /favicon.ico 200 in 849ms
+Database connection successful
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/assigned 200 in 960ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/site 200 in 1013ms
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/assigned 200 in 152ms
+Database connection successful
+ GET /api/site 200 in 213ms
+ GET /api/status?ipRange=192.168.1 200 in 9428ms
+ ✓ Compiled /api/ipcheck in 413ms (942 modules)
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 1089ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 4540ms
+ GET /api/status?ipRange=192.168.2 200 in 8725ms
+ GET /api/status?ipRange=192.168.2 200 in 7483ms
+ ✓ Compiled in 1179ms (1213 modules)
+ GET /ipcheck 200 in 189ms
+ GET /favicon.ico 200 in 44ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+ GET /api/assigned 200 in 583ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/site 200 in 650ms
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/assigned 200 in 154ms
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/site 200 in 196ms
+ GET /api/status?ipRange=192.168.2 200 in 7224ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 223ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 4282ms
+ GET /api/status?ipRange=192.168.2 200 in 6662ms
+ GET /api/status?ipRange=192.168.2 200 in 6934ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Received data: {
+  ip: '192.168.2.2',
+  sitename: undefined,
+  macaddress: undefined,
+  device: undefined,
+  location: undefined,
+  comment: undefined,
+  modifieddate: undefined,
+  modifiedby: undefined
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ POST /api/ipcheck 200 in 376ms
+ GET /api/status?ipRange=192.168.2 200 in 6641ms
+ ✓ Compiled in 1554ms (1213 modules)
+ GET /ipcheck 200 in 5241ms
+ GET /favicon.ico 200 in 66ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+ GET /api/assigned 200 in 421ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/site 200 in 488ms
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/assigned 200 in 168ms
+Database connection successful
+ GET /api/site 200 in 190ms
+ GET /api/status?ipRange=192.168.2 200 in 7282ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 208ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 4344ms
+ GET /api/status?ipRange=192.168.2 200 in 6682ms
+ GET /api/status?ipRange=192.168.2 200 in 6950ms
+ ✓ Compiled in 1398ms (1213 modules)
+ GET /ipcheck 200 in 251ms
+ GET /favicon.ico 200 in 63ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+ GET /api/assigned 200 in 479ms
+ GET /api/site 200 in 553ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/assigned 200 in 156ms
+Database connection successful
+ GET /api/site 200 in 195ms
+ GET /api/status?ipRange=192.168.2 200 in 6925ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 216ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 4355ms
+ GET /api/status?ipRange=192.168.2 200 in 7017ms
+ GET /api/status?ipRange=192.168.2 200 in 7512ms
+ ✓ Compiled in 1234ms (1213 modules)
+ ✓ Compiled in 1ms (942 modules)
+ ✓ Compiled in 0ms (942 modules)
+ ✓ Compiled in 1ms (942 modules)
+ GET /ipcheck 200 in 4776ms
+ GET /favicon.ico 200 in 50ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+ GET /api/assigned 200 in 386ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/site 200 in 437ms
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/assigned 200 in 170ms
+Database connection successful
+ GET /api/site 200 in 223ms
+ GET /api/status?ipRange=192.168.2 200 in 8092ms
+ GET / 200 in 151ms
+ ✓ Compiled in 833ms (557 modules)
+ ✓ Compiled in 594ms (557 modules)
+ ✓ Compiled in 650ms (557 modules)
+ ✓ Compiled /api/assigned in 197ms (897 modules)
+ ✓ Compiled (899 modules)
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/assigned 200 in 916ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/site 200 in 973ms
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/assigned 200 in 166ms
+Database connection successful
+ GET /api/site 200 in 188ms
+ ✓ Compiled /api/ipcheck in 160ms (901 modules)
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 490ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 287ms
+ ✓ Compiled /api/status in 379ms (915 modules)
+ GET /api/status?ipRange=192.168.2 200 in 6147ms
+ GET /api/status?ipRange=192.168.2 200 in 5987ms
+ ✓ Compiled /api/ipcheck in 730ms (557 modules)
+ ✓ Compiled in 1ms (897 modules)
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 1408ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 249ms
+ ✓ Compiled /api/status in 330ms (911 modules)
+ GET /ipcheck 200 in 159ms
+ GET /api/status?ipRange=192.168.2 200 in 7559ms
+ ✓ Compiled /api/site in 484ms (938 modules)
+ ✓ Compiled (942 modules)
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /favicon.ico 200 in 1219ms
+Database connection successful
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/assigned 200 in 1379ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/site 200 in 1449ms
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/assigned 200 in 212ms
+Database connection successful
+ GET /api/site 200 in 229ms
+ GET /api/status?ipRange=192.168.2 200 in 6301ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 139ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 2630ms
+ GET /api/status?ipRange=192.168.2 200 in 5452ms
+ GET /api/status?ipRange=192.168.2 200 in 5510ms
+ ✓ Compiled in 780ms (1213 modules)
+ ✓ Compiled in 0ms (942 modules)
+ ✓ Compiled in 1ms (942 modules)
+ ✓ Compiled in 0ms (942 modules)
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 1513ms
+ GET /ipcheck 200 in 948ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 3226ms
+ GET /favicon.ico 200 in 38ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/assigned 200 in 262ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/site 200 in 315ms
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/assigned 200 in 159ms
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/site 200 in 204ms
+ GET /api/status?ipRange=192.168.2 200 in 5716ms
+ ✓ Compiled in 739ms (557 modules)
+ ✓ Compiled /api/ipcheck in 189ms (897 modules)
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 617ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 247ms
+ ✓ Compiled /api/status in 343ms (911 modules)
+ GET /api/status?ipRange=192.168.2 200 in 6108ms
+ GET /api/status?ipRange=192.168.2 200 in 5509ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Received data: {
+  ip: '192.168.2.1',
+  sitename: undefined,
+  macaddress: undefined,
+  device: undefined,
+  location: undefined,
+  comment: '1322',
+  modifieddate: undefined,
+  modifiedby: undefined
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ POST /api/ipcheck 200 in 311ms
+ GET /api/status?ipRange=192.168.2 200 in 5708ms
+ ✓ Compiled /api/assigned in 226ms (913 modules)
+ ✓ Compiled (915 modules)
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/assigned 200 in 1087ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/site 200 in 1156ms
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/assigned 200 in 167ms
+Database connection successful
+ GET /api/site 200 in 181ms
+ ✓ Compiled in 661ms (557 modules)
+ ✓ Compiled /api/assigned in 192ms (897 modules)
+ ✓ Compiled (899 modules)
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/assigned 200 in 800ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/site 200 in 854ms
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/assigned 200 in 159ms
+Database connection successful
+ GET /api/site 200 in 171ms
+ ✓ Compiled /api/ipcheck in 144ms (901 modules)
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 332ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 337ms
+ ✓ Compiled /api/status in 444ms (915 modules)
+ GET /api/status?ipRange=192.168.2 200 in 6357ms
+ GET /api/status?ipRange=192.168.2 200 in 5978ms
+ ✓ Compiled /api/status in 759ms (557 modules)
+ ✓ Compiled in 0ms (330 modules)
+ GET /api/status?ipRange=192.168.2 200 in 6511ms
+ ✓ Compiled in 409ms (601 modules)
+ GET /api/status?ipRange=192.168.2 200 in 5993ms
+ ✓ Compiled /api/status in 1110ms (601 modules)
+ GET /api/status?ipRange=192.168.2 200 in 6723ms
+ ✓ Compiled in 515ms (557 modules)
+ ✓ Compiled /api/status in 109ms (330 modules)
+ GET /api/status?ipRange=192.168.2 200 in 6235ms
+ ✓ Compiled in 370ms (601 modules)
+ GET /api/status?ipRange=192.168.2 200 in 5702ms
+ ✓ Compiled in 596ms (557 modules)
+ ✓ Compiled /api/status in 108ms (330 modules)
+ GET /api/status?ipRange=192.168.2 200 in 6034ms
+ ○ Compiling /api/assigned ...
+ ✓ Compiled /api/assigned in 1677ms (897 modules)
+ ✓ Compiled (899 modules)
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/assigned 200 in 2427ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/site 200 in 2496ms
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/assigned 200 in 171ms
+Database connection successful
+ GET /api/site 200 in 190ms
+ ✓ Compiled in 634ms (557 modules)
+ ✓ Compiled in 185ms (271 modules)
+ ✓ Compiled in 763ms (563 modules)
+ ✓ Compiled /api/assigned in 193ms (900 modules)
+ ✓ Compiled (902 modules)
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/assigned 200 in 793ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/site 200 in 855ms
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/assigned 200 in 163ms
+Database connection successful
+ GET /api/site 200 in 180ms
+ ✓ Compiled /api/ipcheck in 348ms (904 modules)
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 737ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 301ms
+ ✓ Compiled /api/status in 397ms (918 modules)
+ GET /api/status?ipRange=192.168.2 200 in 6111ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ DELETE /api/ipcheck?ip=192.168.2.1 200 in 191ms
+ GET /api/status?ipRange=192.168.2 200 in 5987ms
+ GET /api/status?ipRange=192.168.2 200 in 5507ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ DELETE /api/ipcheck?ip=192.168.2.2 200 in 166ms
+ GET /api/status?ipRange=192.168.2 200 in 5939ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Received data: {
+  ip: '192.168.2.1',
+  sitename: undefined,
+  macaddress: undefined,
+  device: undefined,
+  location: undefined,
+  comment: '133332',
+  modifieddate: undefined,
+  modifiedby: undefined
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ POST /api/ipcheck 200 in 163ms
+ GET /api/status?ipRange=192.168.2 200 in 5767ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ DELETE /api/ipcheck?ip=192.168.2.1 200 in 149ms
+ GET /api/status?ipRange=192.168.2 200 in 5737ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Received data: {
+  ip: '192.168.2.1',
+  sitename: undefined,
+  macaddress: undefined,
+  device: undefined,
+  location: undefined,
+  comment: '11552',
+  modifieddate: undefined,
+  modifiedby: undefined
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ POST /api/ipcheck 200 in 157ms
+ GET /api/status?ipRange=192.168.2 200 in 5785ms
+ ✓ Compiled in 704ms (563 modules)
+ ✓ Compiled /api/ipcheck in 234ms (900 modules)
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 703ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 203ms
+ ✓ Compiled /api/status in 286ms (914 modules)
+ GET /ipcheck 200 in 140ms
+ ✓ Compiled /api/site in 312ms (941 modules)
+ ✓ Compiled (945 modules)
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /favicon.ico 200 in 970ms
+Database connection successful
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/assigned 200 in 1079ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/site 200 in 1125ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/assigned 200 in 155ms
+Database connection successful
+ GET /api/site 200 in 191ms
+ GET /api/status?ipRange=192.168.2 200 in 6296ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 132ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 2980ms
+ GET /api/status?ipRange=192.168.2 200 in 5740ms
+ GET /api/status?ipRange=192.168.2 200 in 5988ms
+ ✓ Compiled in 568ms (1219 modules)
+ GET /ipcheck 200 in 211ms
+ GET /favicon.ico 200 in 46ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+ GET /api/assigned 200 in 211ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/site 200 in 265ms
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/assigned 200 in 173ms
+Database connection successful
+ GET /ipcheck 200 in 78ms
+ GET /api/site 200 in 253ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /favicon.ico 200 in 55ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+ GET /api/assigned 200 in 179ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/site 200 in 232ms
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/assigned 200 in 153ms
+Database connection successful
+ GET /api/site 200 in 175ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 144ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 3160ms
+ GET /api/status?ipRange=192.168.2 200 in 5795ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ DELETE /api/ipcheck?ip=192.168.2.1 200 in 146ms
+ GET /api/status?ipRange=192.168.2 200 in 5988ms
+ GET /ipcheck 200 in 54ms
+ GET /api/status?ipRange=192.168.2 200 in 5501ms
+ GET /favicon.ico 200 in 29ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+ GET /api/assigned 200 in 157ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/site 200 in 218ms
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/assigned 200 in 163ms
+Database connection successful
+ GET /api/site 200 in 170ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 161ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 3141ms
+ GET /api/status?ipRange=192.168.2 200 in 5841ms
+ GET /api/status?ipRange=192.168.2 200 in 5491ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Received data: {
+  ip: '192.168.2.1',
+  sitename: undefined,
+  macaddress: undefined,
+  device: undefined,
+  location: undefined,
+  comment: '1152',
+  modifieddate: undefined,
+  modifiedby: undefined
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ POST /api/ipcheck 200 in 154ms
+ GET /api/status?ipRange=192.168.2 200 in 5672ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ DELETE /api/ipcheck?ip=192.168.2.1 200 in 142ms
+ GET /api/status?ipRange=192.168.2 200 in 5955ms
+ ✓ Compiled in 734ms (563 modules)
+ ✓ Compiled in 614ms (557 modules)
+ ✓ Compiled /api/ipcheck in 244ms (897 modules)
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 754ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 200ms
+ ✓ Compiled /api/status in 277ms (911 modules)
+ GET /api/status?ipRange=192.168.2.0 200 in 3094ms
+ GET /api/status?ipRange=192.168.2.0 200 in 2968ms
+ GET /ipcheck 200 in 2988ms
+ ✓ Compiled /favicon.ico in 384ms (938 modules)
+ GET /favicon.ico 200 in 511ms
+ GET /ipcheck 200 in 138ms
+ GET /favicon.ico 200 in 33ms
+ ✓ Compiled /api/site in 211ms (940 modules)
+ ✓ Compiled (942 modules)
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+ GET /api/assigned 200 in 985ms
+ GET /api/site 200 in 1036ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/assigned 200 in 170ms
+Database connection successful
+ GET /api/site 200 in 183ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 137ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/status?ipRange=192.168.2.0 200 in 2790ms
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 2911ms
+ GET /api/status?ipRange=192.168.2.0 200 in 2834ms
+ ✓ Compiled in 678ms (1219 modules)
+ ✓ Compiled in 0ms (945 modules)
+ ✓ Compiled in 1ms (945 modules)
+ ✓ Compiled in 1ms (945 modules)
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 1359ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /ipcheck 200 in 207ms
+Database connection successful
+ GET /api/ipcheck 200 in 3515ms
+ GET /favicon.ico 200 in 38ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+ GET /api/assigned 200 in 177ms
+ GET /api/site 200 in 231ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/assigned 200 in 173ms
+Database connection successful
+ GET /api/site 200 in 191ms
+ GET /api/status?ipRange=192.168.2 200 in 5859ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 145ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 3139ms
+ GET /api/status?ipRange=192.168.2 200 in 6004ms
+ GET /api/status?ipRange=192.168.2 200 in 5501ms
+ ✓ Compiled /api/ipcheck in 889ms (563 modules)
+ ✓ Compiled in 0ms (900 modules)
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 1193ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 211ms
+ ✓ Compiled /api/status in 276ms (914 modules)
+ GET /api/status?ipRange=192.168.2 200 in 6202ms
+ GET /api/status?ipRange=192.168.2 200 in 5990ms
+ ✓ Compiled in 668ms (563 modules)
+ ✓ Compiled /api/status in 147ms (333 modules)
+ GET /api/status?ipRange=192.168.2 200 in 6449ms
+ ✓ Compiled /api/ipcheck in 232ms (914 modules)
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Received data: {
+  ip: '192.168.2.1',
+  sitename: undefined,
+  macaddress: undefined,
+  device: undefined,
+  location: undefined,
+  comment: '1132',
+  modifieddate: undefined,
+  modifiedby: undefined
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ POST /api/ipcheck 200 in 742ms
+ GET /api/status?ipRange=192.168.2 200 in 5829ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ DELETE /api/ipcheck?ip=192.168.2.1 200 in 173ms
+ GET /api/status?ipRange=192.168.2 200 in 5913ms
+ ✓ Compiled in 636ms (1188 modules)
+ GET /api/status?ipRange=192.168.2 200 in 6048ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Received data: {
+  ip: '192.168.2.2',
+  sitename: undefined,
+  macaddress: undefined,
+  device: '115',
+  location: undefined,
+  comment: undefined,
+  modifieddate: undefined,
+  modifiedby: undefined
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ POST /api/ipcheck 200 in 424ms
+ GET /api/status?ipRange=192.168.2 200 in 5862ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ DELETE /api/ipcheck?ip=192.168.2.2 200 in 153ms
+ GET /api/status?ipRange=192.168.2 200 in 5941ms
+ ✓ Compiled in 468ms (1188 modules)
+ GET /api/status?ipRange=192.168.2 200 in 5864ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Received data: {
+  ip: '192.168.2.1',
+  sitename: undefined,
+  macaddress: undefined,
+  device: undefined,
+  location: undefined,
+  comment: '1152',
+  modifieddate: undefined,
+  modifiedby: undefined
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ POST /api/ipcheck 200 in 196ms
+ GET /api/status?ipRange=192.168.2 200 in 5641ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ DELETE /api/ipcheck?ip=192.168.2.1 200 in 155ms
+ GET /api/status?ipRange=192.168.2 200 in 5649ms
+ GET /ipcheck 200 in 147ms
+ ✓ Compiled /api/assigned in 362ms (941 modules)
+ ✓ Compiled (945 modules)
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /favicon.ico 200 in 939ms
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+ GET /api/assigned 200 in 1030ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/site 200 in 1098ms
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/assigned 200 in 176ms
+Database connection successful
+ GET /api/site 200 in 196ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+ GET /api/assigned 200 in 179ms
+ GET /api/site 200 in 238ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/assigned 200 in 253ms
+Database connection successful
+ GET /api/site 200 in 267ms
+ ✓ Compiled in 716ms (563 modules)
+ GET / 200 in 123ms
+ ✓ Compiled /favicon.ico in 108ms (319 modules)
+ GET /favicon.ico 200 in 244ms
+ ○ Compiling /api/assigned ...
+ ✓ Compiled /api/assigned in 562ms (927 modules)
+ ✓ Compiled (929 modules)
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/assigned 200 in 1643ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/site 200 in 1767ms
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/assigned 200 in 293ms
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/site 200 in 317ms
+ ○ Compiling /api/ipcheck ...
+ ✓ Compiled /api/ipcheck in 692ms (931 modules)
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 1445ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/ipcheck 200 in 525ms
+ ○ Compiling /api/status ...
+ ✓ Compiled /api/status in 705ms (945 modules)
+ GET /api/status?ipRange=192.168.1 200 in 11653ms
+ GET /api/status?ipRange=192.168.1 200 in 16501ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Received data: {
+  ip: '192.168.1.41',
+  sitename: undefined,
+  macaddress: undefined,
+  device: 'Lexel Backup server',
+  location: undefined,
+  comment: undefined,
+  modifieddate: undefined,
+  modifiedby: undefined
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ POST /api/ipcheck 200 in 423ms
+ GET /api/status?ipRange=192.168.1 200 in 9298ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ DELETE /api/ipcheck?ip=192.168.1.41 200 in 447ms
+ GET /api/status?ipRange=192.168.1 200 in 9341ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Received data: {
+  ip: '192.168.1.41',
+  sitename: undefined,
+  macaddress: undefined,
+  device: 'Lexel Backup Server',
+  location: undefined,
+  comment: undefined,
+  modifieddate: undefined,
+  modifiedby: undefined
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ POST /api/ipcheck 200 in 389ms
+ GET /api/status?ipRange=192.168.1 200 in 9019ms
+ GET /api/status?ipRange=192.168.2 200 in 7138ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+ GET /api/assigned 200 in 383ms
+ GET /api/site 200 in 610ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/assigned 200 in 387ms
+Database connection successful
+ GET /api/site 200 in 317ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ POST /api/assigned 200 in 246ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+ GET /api/assigned 200 in 443ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/site 200 in 570ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/assigned 200 in 324ms
+Database connection successful
+ GET /api/site 200 in 340ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+ GET /api/assigned 200 in 188ms
+ GET /api/site 200 in 274ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/assigned 200 in 283ms
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/site 200 in 326ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+ GET /api/assigned 200 in 204ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/site 200 in 267ms
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/assigned 200 in 229ms
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+ GET /api/site 200 in 276ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+ GET /api/assigned 200 in 273ms
+ GET /api/site 200 in 406ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+ GET /api/assigned 200 in 310ms
+Database connection successful
+ GET /api/site 200 in 252ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}
+Database connection successful
+Database connection successful
+ GET /api/assigned 200 in 171ms
+ GET /api/site 200 in 230ms
+Connecting to database with config: {
+  "user": "sa",
+  "password": "Alpha!234%",
+  "server": "ALPHA-L145\\\\TEST",
+  "database": "test1",
+  "options": {
+    "trustServerCertificate": true
+  }
+}

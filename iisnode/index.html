@@ -1,0 +1,87 @@
+<html>
+<head>
+    <title>iisnode logs</title>
+    <style type="text/css">
+        body
+        {
+            font-family: "Trebuchet MS" , Arial, Helvetica, sans-serif;
+        }
+        table
+        {
+            border-collapse: collapse;
+        }
+        td, th
+        {
+            border: 1px solid lightgray;
+            padding: 3px 7px 2px 7px;
+        }
+        th
+        {
+            text-align: left;
+            padding-top: 5px;
+            padding-bottom: 4px;
+            background-color: Gray;
+            color: #ffffff;
+        }
+        td.stderr
+        {
+            color: Red;
+        }
+    </style>
+</head>
+<body>
+    <table id="logFilesTable">
+        <tr>
+            <th>
+                Computer name
+            </th>
+            <th>
+                PID
+            </th>
+            <th>
+                Type
+            </th>
+            <th>
+                Created
+            </th>
+            <th>
+                Link
+            </th>
+        </tr>
+    </table>
+    <p id="lastUpdated"></p>
+    <script type="text/javascript">
+
+        // this is replaced with actual data at runtime by code in interceptor.js
+        var logFiles = [{"file":"ALPHA-L145-13032-stderr-1723686063006.txt","computername":"ALPHA-L145","pid":13032,"type":"stderr","created":1723686063006},{"file":"ALPHA-L145-13032-stdout-1723686063004.txt","computername":"ALPHA-L145","pid":13032,"type":"stdout","created":1723686063004},{"file":"ALPHA-L145-13216-stderr-1723689749741.txt","computername":"ALPHA-L145","pid":13216,"type":"stderr","created":1723689749741},{"file":"ALPHA-L145-13216-stdout-1723689749737.txt","computername":"ALPHA-L145","pid":13216,"type":"stdout","created":1723689749737},{"file":"ALPHA-L145-13876-stderr-1724014427878.txt","computername":"ALPHA-L145","pid":13876,"type":"stderr","created":1724014427878},{"file":"ALPHA-L145-13876-stdout-1724014427868.txt","computername":"ALPHA-L145","pid":13876,"type":"stdout","created":1724014427868},{"file":"ALPHA-L145-14820-stderr-1723687860370.txt","computername":"ALPHA-L145","pid":14820,"type":"stderr","created":1723687860370},{"file":"ALPHA-L145-14820-stdout-1723687860366.txt","computername":"ALPHA-L145","pid":14820,"type":"stdout","created":1723687860366},{"file":"ALPHA-L145-15180-stderr-1723774825118.txt","computername":"ALPHA-L145","pid":15180,"type":"stderr","created":1723774825118},{"file":"ALPHA-L145-15180-stdout-1723774825101.txt","computername":"ALPHA-L145","pid":15180,"type":"stdout","created":1723774825101},{"file":"ALPHA-L145-23152-stderr-1723776446210.txt","computername":"ALPHA-L145","pid":23152,"type":"stderr","created":1723776446210},{"file":"ALPHA-L145-23152-stdout-1723776446206.txt","computername":"ALPHA-L145","pid":23152,"type":"stdout","created":1723776446206},{"file":"ALPHA-L145-25424-stderr-1723692832862.txt","computername":"ALPHA-L145","pid":25424,"type":"stderr","created":1723692832862},{"file":"ALPHA-L145-25424-stdout-1723692832859.txt","computername":"ALPHA-L145","pid":25424,"type":"stdout","created":1723692832859},{"file":"ALPHA-L145-34636-stderr-1723589337287.txt","computername":"ALPHA-L145","pid":34636,"type":"stderr","created":1723589337287},{"file":"ALPHA-L145-34636-stdout-1723600275993.txt","computername":"ALPHA-L145","pid":34636,"type":"stdout","created":1723600275993},{"file":"ALPHA-L145-34636-stdout-1723611776139.txt","computername":"ALPHA-L145","pid":34636,"type":"stdout","created":1723611776139},{"file":"ALPHA-L145-4720-stderr-1723667978405.txt","computername":"ALPHA-L145","pid":4720,"type":"stderr","created":1723667978405},{"file":"ALPHA-L145-4720-stdout-1723667978392.txt","computername":"ALPHA-L145","pid":4720,"type":"stdout","created":1723667978392},{"file":"ALPHA-L145-5972-stderr-1723776444119.txt","computername":"ALPHA-L145","pid":5972,"type":"stderr","created":1723776444119},{"file":"ALPHA-L145-7556-stderr-1723684486880.txt","computername":"ALPHA-L145","pid":7556,"type":"stderr","created":1723684486880},{"file":"ALPHA-L145-7556-stdout-1723684486872.txt","computername":"ALPHA-L145","pid":7556,"type":"stdout","created":1723684486872}];
+        var lastUpdated = 1724014433506;
+        var date = new Date();
+
+        date.setTime(lastUpdated);
+        document.getElementById('lastUpdated').innerHTML = 'Index was last updated ' + date;
+
+        logFiles.sort(function (a, b) {
+            return b.created - a.created;
+        });
+
+        var logFilesTable = document.getElementById("logFilesTable");
+        for (var i = 0; i < logFiles.length; i++) {
+            var logFile = logFiles[i];
+            date.setTime(logFile.created);
+            var row = logFilesTable.insertRow(-1);
+            var computerNameCell = row.insertCell(0);
+            var pidCell = row.insertCell(1);
+            var typeCell = row.insertCell(2);
+            var dateCell = row.insertCell(3);
+            var logCell = row.insertCell(4);
+            computerNameCell.innerHTML = logFile.computername;
+            pidCell.innerHTML = logFile.pid.toString();
+            typeCell.innerHTML = logFile.type;
+            typeCell.setAttribute('class', logFile.type);
+            dateCell.innerHTML = date.toString();
+            logCell.innerHTML = '<a href="' + logFile.file + '">log</a>';
+        };
+
+    </script>
+</body>
+</html>
